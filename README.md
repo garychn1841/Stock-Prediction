@@ -20,7 +20,7 @@ dataset = data.values
 <br><br>
 
 ## Matplotlib
-Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python. Matplotlib makes easy things easy and hard things possible.
+Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python. Matplotlib makes easy things easy and hard things possible.  
 使用Matplotlib時需先`import matplotlib.pyplot as plt`
 
 
